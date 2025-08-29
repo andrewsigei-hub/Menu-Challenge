@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "Rye";
+  src: url(./Fonts/Rye/Rye-Regular.ttf);
+}
 * {
-  
+  font-family: Rye;
 }
