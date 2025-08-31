@@ -1,8 +1,3 @@
-Perfect 👍 thanks for sharing your HTML!
-
-Here’s an updated **README** tailored to your project, with a **“How to Run”** section that matches your HTML file setup.
-
----
 
 # Andrew's Restaurant Menu
 
